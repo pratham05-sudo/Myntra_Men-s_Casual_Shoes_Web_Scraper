@@ -25,6 +25,7 @@ It automatically scrapes **10 pages of product listings** and saves the extracte
 * **ChromeDriver**
 * **Pandas**
 * **Regular Expressions (re)**
+*  **Jupyter Notebook (for development)**
 
 ---
 
